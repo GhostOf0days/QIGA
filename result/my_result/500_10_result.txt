@@ -1,0 +1,149 @@
+
+Graph: powerlaw_500_ID10
+Nodes: 500, Edges: 1983
+L2A Benchmark Cut: 1473
+QIGA Cut: 1475
+
+Summary:
+Total L2A Cut: 1473
+Total QIGA Cut: 1475
+Improvement %: 0.14
+: 0.0000
+Epoch: 140, Loss: 0.0000
+Epoch: 160, Loss: 0.0000
+Epoch: 180, Loss: 0.0000
+Epoch: 200, Loss: 0.0000
+Epoch: 220, Loss: 0.0000
+Epoch: 240, Loss: 0.0000
+Epoch: 260, Loss: 0.0000
+Epoch: 280, Loss: 0.0000
+Epoch: 300, Loss: 0.0000
+Epoch: 320, Loss: 0.0000
+Epoch: 340, Loss: 0.0000
+Epoch: 360, Loss: 0.0000
+Epoch: 380, Loss: 0.0000
+Epoch: 400, Loss: 0.0000
+Epoch: 420, Loss: 0.0000
+Epoch: 440, Loss: 0.0000
+Epoch: 460, Loss: 0.0000
+Epoch: 480, Loss: 0.0000
+Iteration: 0, Best Cut: 1363, Progress: 0.00%
+Iteration: 100, Best Cut: 1468, Progress: 3.33%
+Iteration: 200, Best Cut: 1468, Progress: 6.67%
+Iteration: 300, Best Cut: 1468, Progress: 10.00%
+Iteration: 400, Best Cut: 1468, Progress: 13.33%
+Iteration: 500, Best Cut: 1468, Progress: 16.67%
+Iteration: 600, Best Cut: 1465, Progress: 20.00%
+Iteration: 700, Best Cut: 1465, Progress: 23.33%
+Iteration: 800, Best Cut: 1465, Progress: 26.67%
+Iteration: 900, Best Cut: 1465, Progress: 30.00%
+Iteration: 1000, Best Cut: 1465, Progress: 33.33%
+Iteration: 1100, Best Cut: 1466, Progress: 36.67%
+Iteration: 1200, Best Cut: 1466, Progress: 40.00%
+Iteration: 1300, Best Cut: 1466, Progress: 43.33%
+Iteration: 1400, Best Cut: 1466, Progress: 46.67%
+Iteration: 1500, Best Cut: 1466, Progress: 50.00%
+Iteration: 1600, Best Cut: 1462, Progress: 53.33%
+Iteration: 1700, Best Cut: 1462, Progress: 56.67%
+Iteration: 1800, Best Cut: 1462, Progress: 60.00%
+Iteration: 1900, Best Cut: 1462, Progress: 63.33%
+Iteration: 2000, Best Cut: 1462, Progress: 66.67%
+Iteration: 2100, Best Cut: 1461, Progress: 70.00%
+Iteration: 2200, Best Cut: 1461, Progress: 73.33%
+Iteration: 2300, Best Cut: 1461, Progress: 76.67%
+Iteration: 2400, Best Cut: 1461, Progress: 80.00%
+Iteration: 2500, Best Cut: 1461, Progress: 83.33%
+Iteration: 2600, Best Cut: 1465, Progress: 86.67%
+Iteration: 2700, Best Cut: 1465, Progress: 90.00%
+Iteration: 2800, Best Cut: 1465, Progress: 93.33%
+Iteration: 2900, Best Cut: 1465, Progress: 96.67%
+Iteration: 0, Best Cut: 1367, Progress: 0.00%
+Iteration: 100, Best Cut: 1475, Progress: 3.33%
+Iteration: 200, Best Cut: 1475, Progress: 6.67%
+Iteration: 300, Best Cut: 1475, Progress: 10.00%
+Iteration: 400, Best Cut: 1475, Progress: 13.33%
+Iteration: 500, Best Cut: 1475, Progress: 16.67%
+Iteration: 600, Best Cut: 1475, Progress: 20.00%
+Iteration: 700, Best Cut: 1475, Progress: 23.33%
+Iteration: 800, Best Cut: 1475, Progress: 26.67%
+Iteration: 900, Best Cut: 1475, Progress: 30.00%
+Iteration: 1000, Best Cut: 1475, Progress: 33.33%
+Iteration: 1100, Best Cut: 1469, Progress: 36.67%
+Iteration: 1200, Best Cut: 1469, Progress: 40.00%
+Iteration: 1300, Best Cut: 1469, Progress: 43.33%
+Iteration: 1400, Best Cut: 1469, Progress: 46.67%
+Iteration: 1500, Best Cut: 1469, Progress: 50.00%
+Iteration: 1600, Best Cut: 1470, Progress: 53.33%
+Iteration: 1700, Best Cut: 1470, Progress: 56.67%
+Iteration: 1800, Best Cut: 1470, Progress: 60.00%
+Iteration: 1900, Best Cut: 1470, Progress: 63.33%
+Iteration: 2000, Best Cut: 1470, Progress: 66.67%
+Iteration: 2100, Best Cut: 1475, Progress: 70.00%
+Iteration: 2200, Best Cut: 1475, Progress: 73.33%
+Iteration: 2300, Best Cut: 1475, Progress: 76.67%
+Iteration: 2400, Best Cut: 1475, Progress: 80.00%
+Iteration: 2500, Best Cut: 1475, Progress: 83.33%
+Iteration: 2600, Best Cut: 1475, Progress: 86.67%
+Iteration: 2700, Best Cut: 1475, Progress: 90.00%
+Iteration: 2800, Best Cut: 1475, Progress: 93.33%
+Iteration: 2900, Best Cut: 1475, Progress: 96.67%
+Iteration: 0, Best Cut: 1377, Progress: 0.00%
+Iteration: 100, Best Cut: 1464, Progress: 3.33%
+Iteration: 200, Best Cut: 1464, Progress: 6.67%
+Iteration: 300, Best Cut: 1464, Progress: 10.00%
+Iteration: 400, Best Cut: 1464, Progress: 13.33%
+Iteration: 500, Best Cut: 1464, Progress: 16.67%
+Iteration: 600, Best Cut: 1465, Progress: 20.00%
+Iteration: 700, Best Cut: 1465, Progress: 23.33%
+Iteration: 800, Best Cut: 1465, Progress: 26.67%
+Iteration: 900, Best Cut: 1465, Progress: 30.00%
+Iteration: 1000, Best Cut: 1465, Progress: 33.33%
+Iteration: 1100, Best Cut: 1465, Progress: 36.67%
+Iteration: 1200, Best Cut: 1465, Progress: 40.00%
+Iteration: 1300, Best Cut: 1465, Progress: 43.33%
+Iteration: 1400, Best Cut: 1465, Progress: 46.67%
+Iteration: 1500, Best Cut: 1465, Progress: 50.00%
+Iteration: 1600, Best Cut: 1465, Progress: 53.33%
+Iteration: 1700, Best Cut: 1465, Progress: 56.67%
+Iteration: 1800, Best Cut: 1465, Progress: 60.00%
+Iteration: 1900, Best Cut: 1465, Progress: 63.33%
+Iteration: 2000, Best Cut: 1465, Progress: 66.67%
+Iteration: 2100, Best Cut: 1463, Progress: 70.00%
+Iteration: 2200, Best Cut: 1463, Progress: 73.33%
+Iteration: 2300, Best Cut: 1463, Progress: 76.67%
+Iteration: 2400, Best Cut: 1463, Progress: 80.00%
+Iteration: 2500, Best Cut: 1463, Progress: 83.33%
+Iteration: 2600, Best Cut: 1465, Progress: 86.67%
+Iteration: 2700, Best Cut: 1465, Progress: 90.00%
+Iteration: 2800, Best Cut: 1465, Progress: 93.33%
+Iteration: 2900, Best Cut: 1465, Progress: 96.67%
+Iteration: 0, Best Cut: 1365, Progress: 0.00%
+Iteration: 100, Best Cut: 1468, Progress: 3.33%
+Iteration: 200, Best Cut: 1468, Progress: 6.67%
+Iteration: 300, Best Cut: 1468, Progress: 10.00%
+Iteration: 400, Best Cut: 1468, Progress: 13.33%
+Iteration: 500, Best Cut: 1468, Progress: 16.67%
+Iteration: 600, Best Cut: 1465, Progress: 20.00%
+Iteration: 700, Best Cut: 1465, Progress: 23.33%
+Iteration: 800, Best Cut: 1465, Progress: 26.67%
+Iteration: 900, Best Cut: 1465, Progress: 30.00%
+Iteration: 1000, Best Cut: 1465, Progress: 33.33%
+Iteration: 1100, Best Cut: 1467, Progress: 36.67%
+Iteration: 1200, Best Cut: 1467, Progress: 40.00%
+Iteration: 1300, Best Cut: 1467, Progress: 43.33%
+Iteration: 1400, Best Cut: 1467, Progress: 46.67%
+Iteration: 1500, Best Cut: 1467, Progress: 50.00%
+Iteration: 1600, Best Cut: 1469, Progress: 53.33%
+Iteration: 1700, Best Cut: 1469, Progress: 56.67%
+Iteration: 1800, Best Cut: 1469, Progress: 60.00%
+Iteration: 1900, Best Cut: 1469, Progress: 63.33%
+Iteration: 2000, Best Cut: 1469, Progress: 66.67%
+Iteration: 2100, Best Cut: 1465, Progress: 70.00%
+Iteration: 2200, Best Cut: 1465, Progress: 73.33%
+Iteration: 2300, Best Cut: 1465, Progress: 76.67%
+Iteration: 2400, Best Cut: 1465, Progress: 80.00%
+Iteration: 2500, Best Cut: 1465, Progress: 83.33%
+Iteration: 2600, Best Cut: 1464, Progress: 86.67%
+Iteration: 2700, Best Cut: 1464, Progress: 90.00%
+Iteration: 2800, Best Cut: 1464, Progress: 93.33%
+Iteration: 2900, Best Cut: 1464, Progress: 96.67%
