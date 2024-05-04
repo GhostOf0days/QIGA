@@ -33,7 +33,7 @@ The results are stored in the folder "result". Take __Gset__ as an example.
 
 [Gset](https://web.stanford.edu/~yyye/yyye/Gset/) was created by Stanford University. j
 
-| Nodes | Seed | L2A Cut | Gurobi Cut | My Cut | Improvement from max(L2A, Gurobi) (%) | My Binary Solution Vector* |
+| Nodes | Seed | L2A Cut | Gurobi Cut | My Cut | Improvement (%) from max(L2A, Gurobi) | My Binary Solution Vector* |
 |-------|------|---------|------------|--------|--------------------------|--------------------------|
 | 500   | 0    | 1470    | **1473**   | 1472   | -0.068                   | binary_solutions/500_0_solution.txt |
 | 500   | 3    | 1458    | 1459       | **1463** | 0.274                  | binary_solutions/500_3_solution.txt |
