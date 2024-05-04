@@ -15,7 +15,7 @@ with open('data/gset/gset_70.txt', 'r') as f:
 
 
 # Read solution vector
-with open('result/my_result/gset_70_solution_copy.txt', 'r') as f:
+with open('binary_solutions/gset_70_solution.txt', 'r') as f:
     solution = list(map(int, f.read().split()))
 
 cut_value = evaluate_cut(solution, edges)
