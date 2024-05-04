@@ -22,11 +22,11 @@ Take g14.txt (an undirected graph with 800 nodes and 4694 edges) as an example:
 1 12 1 # node 1 connects node 12, weight = 1
 
 
-## Results 
+## Solutions 
 
-Results will be written to a file xxx.txt in the folder "result". It is a binary vector of the 500 nodes and their corresponding set.
+Solutions will be written to a file xxx.txt in the folder "binary_solutions". It is a binary vector of the 500 nodes and their corresponding set.
 
-## Checking Results
+## Checking Solutions
 To check results, run ```check_cut.py```.
 
 
