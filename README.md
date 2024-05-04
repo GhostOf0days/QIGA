@@ -48,9 +48,9 @@ The results are stored in the folder "result". Take __Gset__ as an example.
 | gset_70 | N/A | **9583** | 9490     | 9343    | -2.504                  | binary_solutions/gset_70_solution.txt |
 
 
-* My binary solution vectors are provided under the folder "binary_solutions" as the table formatting is no longer clean when pasting them.
-* They are in the format of text files containing a combination of 1's and 0's with spaces between each 1 or 0.
-* I have provided the paths to the relevant files in the table.
+\* My binary solution vectors are provided under the folder "binary_solutions" as the table formatting is no longer clean when pasting them.
+\* They are in the format of text files containing a combination of 1's and 0's with spaces between each 1 or 0.
+\* I have provided the paths to the relevant files in the table.
 
 L2A's results are represented as strings. How to transfer the strings into binary results? 
 
