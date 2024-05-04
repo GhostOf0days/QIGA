@@ -27,7 +27,7 @@ Take g14.txt (an undirected graph with 800 nodes and 4694 edges) as an example:
 Solutions will be written to a file xxx.txt in the folder "binary_solutions". It is a binary vector of the 500 nodes and their corresponding set.
 
 ## Checking Solutions
-To check results, run ```check_cut.py```.
+To check solutions, run ```check_cut.py```.
 
 
 ## Performance
