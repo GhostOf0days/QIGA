@@ -33,19 +33,24 @@ The results are stored in the folder "result". Take __Gset__ as an example.
 
 [Gset](https://web.stanford.edu/~yyye/yyye/Gset/) was created by Stanford University. j
 
-| Nodes | Seed | L2A Cut | Gurobi Cut | My Cut | Improvement from max(L2A, Gurobi) (%) | Binary Solution Vector |
+| Nodes | Seed | L2A Cut | Gurobi Cut | My Cut | Improvement from max(L2A, Gurobi) (%) | My Binary Solution Vector* |
 |-------|------|---------|------------|--------|--------------------------|--------------------------|
-| 500   | 0    | 1470    | **1473**   | 1472   | -0.068                   | 1 1 0 1 0 1 0 1 0 1 0 0 0 0 1 0 0 1 1 1 0 0 1 1 1 1 1 1 0 1 0 0 1 1 0 1 0 1 1 0 0 1 1 0 0 1 1 0 0 1 0 1 0 1 0 0 1 1 0 1 0 0 0 1 1 0 0 0 0 1 1 1 1 1 0 1 1 1 0 0 0 0 0 0 0 0 1 1 1 1 0 1 1 1 0 0 1 0 0 0 1 0 0 1 0 0 0 1 0 1 0 0 0 0 1 1 0 0 0 1 0 0 1 0 0 0 1 1 1 1 1 0 1 0 0 0 1 1 0 1 1 1 0 1 1 1 0 0 1 0 1 1 1 0 0 1 1 0 1 0 0 1 0 0 0 0 1 0 0 1 0 1 1 0 1 1 1 0 1 1 0 1 1 1 0 1 1 1 0 1 1 0 1 1 1 0 0 0 1 0 0 0 1 1 0 0 0 0 0 0 0 1 0 1 0 1 1 1 0 0 1 0 1 0 1 1 1 0 0 0 1 0 0 0 1 0 0 1 1 1 1 0 1 0 1 1 1 1 0 1 0 1 1 0 1 0 1 0 1 1 1 0 1 1 0 1 0 0 0 1 1 0 0 1 0 0 0 0 1 0 1 1 1 1 0 1 0 1 0 0 0 1 1 1 1 1 1 0 0 0 1 1 0 1 0 0 1 1 0 1 1 1 0 1 1 0 1 0 1 1 0 1 1 0 1 0 1 1 0 0 1 1 1 1 0 0 0 1 1 0 1 1 1 0 1 0 1 0 1 1 0 1 0 1 0 0 1 0 0 1 1 1 0 0 0 1 0 0 1 1 0 1 1 1 0 0 1 0 0 0 1 1 1 1 0 1 1 0 0 0 1 0 0 0 1 1 1 0 0 0 1 0 1 0 0 0 1 1 0 1 0 0 0 0 1 0 1 1 0 1 1 0 1 1 1 0 0 0 1 1 1 1 0 1 0 0 1 0 1 0 0 0 0 0 1 1 0 0 1 0 1 0 0 0 1 0 1 0 1 1 0 1 0 1 0 1 0 1 1 1 0 0 0 0 1 0 1 1 0 0 1 0 0 0 0 1 1 0 1 0 0 0 0 1 0 1 1 1 0 0
-| 500   | 3    | 1458    | 1459       | **1463** | 0.274                  |
-| 500   | 10   | 1473    | 1462       | **1475** | 0.136                  |
-| 500   | 11   | 1467    | 1467       | **1470** | 0.204                  |
-| 500   | 21   | 1464    | **1468**   | **1468** | 0.000                  |
-| 500   | 22   | 1474    | 1474       | **1476** | 0.136                  |
-| 500   | 23   | 1469    | **1471**   | **1471** | 0.000                  |
-| 500   | 24   | 1470    | 1469       | **1473** | 0.204                  |
-| 500   | 27   | 1464    | 1462       | **1465** | 0.068                  |
-| 500   | 28   | 1463    | **1465**   | 1464    | -0.068                  |
-| gset_70 | N/A | **9583** | 9490     | 9343    | -2.504                  |
+| 500   | 0    | 1470    | **1473**   | 1472   | -0.068                   | binary_solutions/500_0_solution.txt |
+| 500   | 3    | 1458    | 1459       | **1463** | 0.274                  | binary_solutions/500_3_solution.txt |
+| 500   | 10   | 1473    | 1462       | **1475** | 0.136                  | binary_solutions/500_10_solution.txt |
+| 500   | 11   | 1467    | 1467       | **1470** | 0.204                  | binary_solutions/500_11_solution.txt |
+| 500   | 21   | 1464    | **1468**   | **1468** | 0.000                  | binary_solutions/500_21_solution.txt |
+| 500   | 22   | 1474    | 1474       | **1476** | 0.136                  | binary_solutions/500_22_solution.txt |
+| 500   | 23   | 1469    | **1471**   | **1471** | 0.000                  | binary_solutions/500_23_solution.txt |
+| 500   | 24   | 1470    | 1469       | **1473** | 0.204                  | binary_solutions/500_24_solution.txt |
+| 500   | 27   | 1464    | 1462       | **1465** | 0.068                  | binary_solutions/500_27_solution.txt |
+| 500   | 28   | 1463    | **1465**   | 1464    | -0.068                  | binary_solutions/500_28_solution.txt |
+| gset_70 | N/A | **9583** | 9490     | 9343    | -2.504                  | binary_solutions/gset_70_solution.txt |
+
+
+* My binary solution vectors are provided under the folder "binary_solutions" as the table formatting is no longer clean when pasting them.
+* They are in the format of text files containing a combination of 1's and 0's with spaces between each 1 or 0.
+* I have provided the paths to the relevant files in the table.
 
 L2A's results are represented as strings. How to transfer the strings into binary results? 
 
