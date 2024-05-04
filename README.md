@@ -7,6 +7,10 @@ python qiga.py
 
 ## Datasets
 
+__Gset__ and synthetic data are used.
+
+[Gset](https://web.stanford.edu/~yyye/yyye/Gset/) was created by Stanford University.
+
 Take g14.txt (an undirected graph with 800 nodes and 4694 edges) as an example:
 
 800 4694 # #nodes is 800, and #edges is 4694.
@@ -27,11 +31,6 @@ To check results, run ```check_cut.py```.
 
 
 ## Performance
-In the following experiments, we used GPU during training by default. The best-known results are labed in bold.
-
-The results are stored in the folder "result". Take __Gset__ as an example.
-
-[Gset](https://web.stanford.edu/~yyye/yyye/Gset/) was created by Stanford University.
 
 | Nodes | Seed | L2A Cut | Gurobi Cut | My Cut | Improvement (%) from max(L2A, Gurobi) | My Binary Solution Vector* |
 |-------|------|---------|------------|--------|--------------------------|--------------------------|
