@@ -44,7 +44,7 @@ To check solutions, run ```check_cut.py```.
 | 500   | 24   | 1470    | 1469       | **1473** | 0.204                  | binary_solutions/500_24_solution.txt |
 | 500   | 27   | 1464    | 1462       | **1465** | 0.068                  | binary_solutions/500_27_solution.txt |
 | 500   | 28   | 1463    | **1465**   | 1464    | -0.068                  | binary_solutions/500_28_solution.txt |
-| gset_70 | N/A | **9583** | 9490     | 9343    | -2.504                  | binary_solutions/gset_70_solution.txt |
+| 10,000 (gset_70) | N/A | **9583** | 9490     | 9343    | -2.504                  | binary_solutions/gset_70_solution.txt |
 
 
 \* My binary solution vectors are provided under the folder "binary_solutions" as the table formatting is no longer clean when pasting them.
